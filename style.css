@@ -235,6 +235,14 @@ a {
     padding-top: 30px;
 }
 
+.skilltitle {
+    font-family: 'Press Start 2P', Arial, sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    margin-left: 20px;
+    text-shadow: 3px 3px 0px black;
+}
+
 .skill-tec{
     display: flex;
     align-items: center;
@@ -1004,5 +1012,103 @@ a {
     .icon {
         display: none;
     }
+    .section4 {
+        height: 500px;
+    }
 }
 
+@media (max-width: 482px) {
+    .section4 {
+        height: 450px;
+    }
+}
+
+@media (max-width: 456px) {
+    .skilltitle {
+        font-family: 'Press Start 2P', Arial, sans-serif;
+        color: #ffffff;
+        margin-left: 20px;
+        text-shadow: 3px 3px 0px black;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 431px) {
+    .skilltitle {
+        font-family: 'Press Start 2P', Arial, sans-serif;
+        color: #ffffff;
+        margin-left: 20px;
+        text-shadow: 3px 3px 0px black;
+        font-size: 25px;
+    }
+    .wrapper-skill .progress-bar {
+        width: 300px;
+    }
+}
+
+@media (max-width: 412px) {
+    .skilltitle {
+        font-family: 'Press Start 2P', Arial, sans-serif;
+        color: #ffffff;
+        margin-left: 20px;
+        text-shadow: 3px 3px 0px black;
+        font-size: 25px;
+    }
+    .wrapper-skill .progress-bar {
+        width: 280px;
+    }
+}
+
+@media (max-width: 393px) {
+    .skilltitle {
+        font-family: 'Press Start 2P', Arial, sans-serif;
+        color: #ffffff;
+        margin-left: 20px;
+        text-shadow: 3px 3px 0px black;
+        font-size: 25px;
+    }
+    .wrapper-skill .progress-bar {
+        width: 260px;
+    }
+}
+
+@media (max-width: 482px) {
+    .skilltitle {
+        font-family: 'Press Start 2P', Arial, sans-serif;
+        color: #ffffff;
+        margin-left: 20px;
+        text-shadow: 3px 3px 0px black;
+        font-size: 20px;
+    }
+    .wrapper-skill .progress-bar, .css, .html, .js {
+        width: 220px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 237px) {
+    .skilltitle {
+        font-family: 'Press Start 2P', Arial, sans-serif;
+        color: #ffffff;
+        margin-left: 20px;
+        text-shadow: 3px 3px 0px black;
+        font-size: 15px;
+    }
+    .wrapper-skill .progress-bar {
+        width: 180px;
+    }
+}
+
+@media (max-width: 231px) {
+    .skilltitle {
+        font-family: 'Press Start 2P', Arial, sans-serif;
+        color: #ffffff;
+        margin-left: 20px;
+        text-shadow: 3px 3px 0px black;
+        font-size: 14px;
+    }
+    .wrapper-skill .progress-bar {
+        width: 160px;
+    }
+}
