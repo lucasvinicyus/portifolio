@@ -3,6 +3,18 @@
     padding: 0;
 }
 
+html::-webkit-scrollbar {
+    width: 10px; 
+ }
+
+html::-webkit-scrollbar-track {
+  background-color: #ffffff;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #9b58b6;
+}
+
 
 h1, p, a {
     text-shadow: 3px 3px 0px black;
@@ -24,10 +36,6 @@ a {
     padding-bottom: 15px;
     border-bottom: 5px solid #000000;
     justify-content: space-between;
-}
-
-.logo {
-    text-decoration: none;
 }
 
 #btn-mobile {
@@ -255,6 +263,10 @@ a {
     background-color: #fff;
     border: 5px solid #000;
     height: 40px;
+}
+
+.logo {
+    text-decoration: none;
 }
   
   .progress-bar::-webkit-progress-bar{
