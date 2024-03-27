@@ -249,8 +249,1697 @@ h1, h2, h3, h4, h5, h6, p {
     margin-top: 25px;
 }
 
-@media (max-width: 613px) {
-    .main {
-        max-width: 80%;
+@media (max-width: 1669px) {
+    .about {
+      height: 410px;
     }
-}
+  }
+
+@media (max-width: 1637px) {
+.about {
+    height: 450px;
+    }
+  }
+
+@media (max-width: 1539px) {
+    .about {
+        height: 500px;
+    }
+  }
+
+@media (max-width: 1452px) {
+    .about {
+        height: 545px;
+    }
+  }
+
+@media (max-width: 1363px) {
+    .about {
+        height: 595px;
+    }
+  }
+
+  @media (max-width: 1330px) {
+    .about {
+        height: 635px;
+    }
+  }
+
+  @media (max-width: 1279px) {
+    .about {
+        height: 680px;
+    }
+  }
+
+  @media (max-width: 1227px) {
+    .about {
+        height: 730px;
+    }
+  }
+
+  @media (max-width: 1205px) {
+    .about {
+        height: 780px;
+    }
+  }
+
+  @media (max-width: 1180px) {
+    .about {
+        height: 820px;
+    }
+  }
+
+  @media (max-width: 1130px) {
+    .about {
+        height: 870px;
+    }
+  }
+
+  @media (max-width: 1107px) {
+    .aboutParagraph {
+        font-size: 23px;
+    }
+
+    .about {
+        height: 750px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+  }
+
+  @media (max-width: 1096px) {
+    .aboutParagraph {
+        font-size: 23px;
+    }
+
+    .about {
+        height: 780px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+  }
+
+  @media (max-width: 1076px) {
+    .aboutParagraph {
+        font-size: 22px;
+    }
+
+    .about {
+        height: 770px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+  }
+
+  @media (max-width: 1061px) {
+    .aboutParagraph {
+        font-size: 22px;
+    }
+
+    .about {
+        height: 800px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+  }
+
+  @media (max-width: 1047px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+
+    .about {
+        height: 550px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+  }
+
+  @media (max-width: 1011px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+
+    .about {
+        height: 600px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+  }
+
+  @media (max-width: 965px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+
+    .about {
+        height: 630px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+  }
+
+  @media (max-width: 946px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+    .about {
+        height: 480px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+  }
+
+  @media (max-width: 886px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+    .about {
+        height: 510px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+  }
+
+  @media (max-width: 856px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .about {
+        height: 480px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+  }
+
+  @media (max-width: 786px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .about {
+        height: 520px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+
+    .projects {
+        height: 400px;
+    }
+  }
+
+  @media (max-width: 756px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .about {
+        height: 480px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+
+    .projects {
+        height: 370px;
+    }
+  }
+
+  @media (max-width: 686px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .about {
+        height: 515px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+
+    .projects {
+        height: 370px;
+    }
+  }
+
+  @media (max-width: 656px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .about {
+        height: 470px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+
+    .projects {
+        height: 320px;
+    }
+  }
+
+  @media (max-width: 606px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .about {
+        height: 520px;
+    }
+
+    .aboutTitle {
+        font-size: 43px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+    }
+
+    .projects {
+        height: 320px;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .about {
+        height: 560px;
+    }
+
+    .aboutTitle {
+        font-size: 35px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 250px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+  }
+
+  @media (max-width: 531px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .about {
+        height: 590px;
+    }
+
+    .aboutTitle {
+        font-size: 35px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 250px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 276.5px;
+    height: 205.8px;
+    }
+
+    .skills {
+        height: 330px;
+    }
+  }
+
+  @media (max-width: 485px) {
+    .aboutParagraph {
+        font-size: 22px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 580px;
+    }
+
+    .aboutTitle {
+        font-size: 35px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 250px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 276.5px;
+    height: 205.8px;
+    }
+
+    .skills {
+        height: 330px;
+    }
+  }
+
+  @media (max-width: 465px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 530px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 220px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 276.5px;
+    height: 205.8px;
+    }
+
+    .skills {
+        height: 330px;
+    }
+  }
+
+  @media (max-width: 425px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 560px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 220px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 276.5px;
+    height: 205.8px;
+    }
+
+    .skills {
+        height: 330px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+  }
+
+  @media (max-width: 407px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 590px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 100px;
+        height: 100px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 220px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 276.5px;
+    height: 205.8px;
+    }
+
+    .skills {
+        height: 330px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 50px;
+        height: 50px;
+    }
+
+    .socialTitle {
+        font-size: 40px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 388px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 630px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 100px;
+        height: 100px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 220px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 276.5px;
+    height: 205.8px;
+    }
+
+    .skills {
+        height: 330px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 50px;
+        height: 50px;
+    }
+
+    .socialTitle {
+        font-size: 40px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 347px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 660px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 70px;
+        height: 70px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 200px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 329px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 700px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 70px;
+        height: 70px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 200px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 317px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 740px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 70px;
+        height: 70px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 200px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+  @media (max-width: 308px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 770px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 70px;
+        height: 70px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 200px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 290px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 810px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 70px;
+        height: 70px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 200px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 283px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 850px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 70px;
+        height: 70px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 200px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 271px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 880px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 70px;
+        height: 70px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 200px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 268px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 920px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 60px;
+        height: 60px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 180px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 252px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 950px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 60px;
+        height: 60px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 180px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
+
+  @media (max-width: 238px) {
+    .aboutParagraph {
+        font-size: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .about {
+        height: 990px;
+    }
+
+    .aboutTitle {
+        font-size: 30px;
+    }
+
+    .project1img, .project2img, .project3img {
+        width: 60px;
+        height: 60px;
+
+        border: 3px #ffffff solid;
+    }
+
+    .projectPart {
+        justify-content: space-around;
+        padding-top: 15px;
+    }
+
+    .projects {
+        height: 180px;
+    }
+
+    .projectsTitle {
+        font-size: 45px;
+    }
+
+    .skillsImg {
+    width: 200.5px;
+    height: 150.8px;
+    }
+
+    .skillsTitle {
+        font-size: 35px;
+    }
+
+    .skills {
+        height: 250px;
+    }
+
+    .LVFoto {
+        width: 160px;
+        height: 160px;
+    }
+
+    .nameBlock {
+        height: 115px;
+        width: 192px;
+
+        top: 300px;
+    }
+
+    .name {
+        font-size: 30px;
+    }
+
+    .frontEnd {
+        font-size: 20px;
+    }
+
+    .presentation {
+        height: 500px;
+    }
+
+    .line {
+        height: 200px;
+    }
+
+    .whatsapp, .tiktok, .github, .email {
+        width: 40px;
+        height: 40px;
+    }
+
+    .socialTitle {
+        font-size: 35px;
+    }
+
+    .social {
+        height: 165px;
+    }
+  }
